@@ -1,0 +1,65 @@
+body{
+    background-image: url("travello!.jpg");
+    background-size: cover;
+    margin: 0px;
+}
+h1 {
+    margin: 0px;
+}
+h2 {
+    font-size: 40px;
+}
+.index {
+    background-color: rgba(245, 229, 163, 0.753);
+}
+#navbar {
+    background-color: rgba(245, 229, 163, 0.753);
+    display: flex;
+    justify-content: right;
+    align-items:center;
+}
+.logo {
+    text-align: left;
+}
+.spain {
+    background-color: rgba(255, 255, 0, 0.8)
+}
+.france {
+    background-color: rgba(25, 1, 110, 0.8)
+}
+.spaintext {
+    color: red;
+}
+.francetitle {
+    color: white;
+}
+.francetext {
+    color: rgb(255, 0, 0);
+}
+.italy {
+    background-color: rgba(0, 128, 0, 0.8);
+}
+.italytitle {
+    color: red;
+}
+.italytext {
+    color: white;
+}
+.turkey {
+    background-color: rgba(255, 0, 0, 0.8);
+}
+.turkeytext {
+    color: white;
+}
+button {
+    background-color: rgba(245, 229, 163, 0);
+    border: none;
+    font-size: 16px;
+}
+p {
+    font-size: 26px;   
+}
+
+.centreimg {
+    text-align: center;
+}
